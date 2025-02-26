@@ -3,7 +3,7 @@ import os
 from telebot import TeleBot, types
 import random
 import sqlite3
-bot = TeleBot("8024521533:AAFamZwFm6GAXdMv4aC7GYqrPtgsOfBIETk")
+bot = TeleBot("TOKEN")
 
 words = []
 banned_users = set()
